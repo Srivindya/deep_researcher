@@ -1,0 +1,18 @@
+# Core LangChain + LangGraph
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+langgraph>=0.2.28
+
+# Web search & retrieval
+tavily-python>=0.3.9
+
+# Vector store & embeddings
+faiss-cpu>=1.9.0.post1
+tiktoken>=0.7.0
+
+# UI
+streamlit>=1.38.0
+
+# Utilities
+python-dotenv>=1.0.1
